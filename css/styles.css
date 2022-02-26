@@ -56,12 +56,26 @@ a:hover {
     padding: 30px;
 }
 
-section {
+.About {
+    background-color: #373737; 
+    text-align: center;  
+}
+
+.contact {
     background-color: #373737;   
 }
-img {
+
+
+.first-img {
     width: 20%;
-    height: 50%
+    height: 45%;  
+    text-align: center;
+}
+
+.second-img {
+    width: 20%;
+    height: 45%;
+
 }
 
 footer {
