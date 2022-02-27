@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: ;
 }
 
 body {
@@ -16,11 +15,11 @@ body {
     
 }
 
-h1 .first{
+h1 .first {
     margin-top: 50px;
 }
 
-p,li,h1{
+p,li,h1 {
     color:white;
     text-align: center;
     font: size 48px;
@@ -35,7 +34,6 @@ header{
 }
 nav {
     display:inline-block;
-    /* margin-top: 0px; */
     margin-bottom: 20px;
     padding-top: 10px;
     padding-bottom: 5px;
@@ -46,8 +44,8 @@ a {
     text-decoration: none;
     font-weight: 2em;
     font-family: "roboto";
-     margin-right: 80px;
-     padding: 30px;  
+    margin-right: 80px;
+    padding: 30px;  
 }
 
 a:hover {
@@ -93,6 +91,5 @@ footer {
     background:#373737;
     position: absolute;
     top :3100px;
-    left:0;
-    
+    left:0;   
 }
