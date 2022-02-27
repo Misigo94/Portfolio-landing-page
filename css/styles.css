@@ -56,6 +56,10 @@ a:hover {
     padding: 30px;
 }
 
+a:visited {
+    color:darkgray;
+}
+
 .About {
     background-color: #373737; 
     text-align: center;  
@@ -72,10 +76,15 @@ a:hover {
     text-align: center;
 }
 
-.second-img {
-    width: 20%;
-    height: 45%;
+.subscriptions{
+    background-color: #373737;
+    font-size: 1em;
+}
 
+form {
+    color: white;
+    text-align: center;
+    margin-bottom: 80px;
 }
 
 footer {
